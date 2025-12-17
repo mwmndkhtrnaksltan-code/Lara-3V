@@ -1,4 +1,5 @@
-const fs = require('fs');
+MODEsson id
+PREFIX: process.env.PREFIXsspWt4Y", // Add your sessionuQOQIuRqL#w-P3J6Aw71aO= require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
 function convertToBool(text, fault = 'true') {
@@ -8,7 +9,7 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "rJoCGRqL#w-P3J6Aw71aO_a-RZ3C3nhaxTuQOQIu64hGP49pWt4Y", // Add your session id
 PREFIX: process.env.PREFIX || ".",
 MODE: process.env.MODE || "public",  //public | private | inbox | group
-OWNER_NUMBER: process.env.OWNER_NUMBER || "967717147294",
+OWNER_NUMBER: process.env.OWNER_PRODEBER || "967717147294",
 DEV: process.env.DEV || "967717147294",
 LANG: process.env.LANG || "EN", // EN | SI
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
